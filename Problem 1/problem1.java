@@ -5,7 +5,7 @@ class problem1 {
     public static void main(String[] args) {
         List<Integer> multiples = new ArrayList<Integer>();
         for (int i = 0; i < 1000; i++) {
-            if isMultiple(3,i) || isMultiple(5,i) {
+            if (isMultiple(3,i) || isMultiple(5,i)) {
                 multiples.add(i);
             }
         }
@@ -17,7 +17,7 @@ class problem1 {
         System.out.println(multSum);
     }
 
-    private boolean isMultiple(mult, test) {
+    private static boolean isMultiple(int mult, int test) {
         return test % mult == 0;
     }
 }
