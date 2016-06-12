@@ -1,6 +1,11 @@
 import java.util.List;
 import java.util.ArrayList;
 
+/**
+ * Project Euler Problem 1
+ * @author Tyler Smith
+ * @email tsmith328@gatech.edu
+ */
 class problem1 {
     public static void main(String[] args) {
         List<Integer> multiples = new ArrayList<Integer>();
