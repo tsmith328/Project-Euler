@@ -31,3 +31,4 @@
  bool mult(int k, int i) {
      return i % k == 0;
  }
+ 
