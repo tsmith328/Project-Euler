@@ -1,5 +1,5 @@
 /**
- * Project Euler Problem 2
+ * Project Euler
  * @author Tyler Smith
  * @email tsmith328@gatech.edu
  */

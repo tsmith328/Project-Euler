@@ -1,5 +1,5 @@
 /*
- * Project Euler Problem 6
+ * Project Euler
  * Tyler Smith
  * tsmith328@gatech.edu
  */

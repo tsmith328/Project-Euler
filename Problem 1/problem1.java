@@ -1,11 +1,12 @@
-import java.util.List;
-import java.util.ArrayList;
-
 /**
- * Project Euler Problem 1
+ * Project Euler
  * @author Tyler Smith
  * @email tsmith328@gatech.edu
  */
+
+import java.util.List;
+import java.util.ArrayList;
+
 class problem1 {
     public static void main(String[] args) {
         List<Integer> multiples = new ArrayList<Integer>();

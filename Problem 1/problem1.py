@@ -1,4 +1,4 @@
-# Project Euler Problem 1
+# Project Euler
 # Tyler M Smith
 # tsmith328@gatech.edu
 
